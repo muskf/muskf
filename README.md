@@ -10,6 +10,8 @@
 
 邮箱:gts0xx@163.com
 
+个人主页:ip123.xyz
+
 ### 常玩的服务器
 mc.hypixel.net
 
