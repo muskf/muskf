@@ -1,16 +1,41 @@
 ### Hi there 👋
+<!--suppress HtmlDeprecatedAttribute -->
+<img align="right" src="https://mc-heads.net/head/USTC" alt="USTC">
 
-<!--
-**muskf/muskf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Muskf
 
-Here are some ideas to get you started:
+[Minecraft](https://www.minecraft.net/) 玩家(ID: USTC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+时区: UTC+8
+
+邮箱:gts0xx@163.com
+
+### 常玩的服务器
+mc.hypixel.net
+
+mc.kinomc.cn
+
+pvp.land
+
+### Hypixel加速ip
+docs.jaqi.xyz
+
+进入928421782Q群申请白名单
+
+### 使用过的的平台
+
+[![Windows](https://img.shields.io/badge/-Windows-black?logo=Windows&logoColor=fff)](https://www.microsoft.com/zh-cn/windows)
+[![Ubuntu](https://img.shields.io/badge/-Ubuntu-black?logo=Ubuntu&logoColor=fff)](https://ubuntu.com/)
+
+### 统计信息
+
+<details>
+  <summary>点击查看</summary>
+
+![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskf&show_icons=true&count_private=true&theme=tokyonight)
+
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskf&theme=radical&date_format=%5BY.%5Dn.j&locale=zh)](https://git.io/streak-stats)
+
+
+</details>
