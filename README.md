@@ -15,10 +15,6 @@
 ### 常玩的服务器
 mc.hypixel.net
 
-mc.kinomc.cn
-
-pvp.land
-
 ### Hypixel加速ip
 docs.jaqi.xyz
 
