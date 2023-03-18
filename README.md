@@ -10,13 +10,10 @@
 
 邮箱:gts0xx@163.com
 
-个人主页:ip123.xyz
 
 ### 常玩的服务器
 mc.hypixel.net
 
-### Hypixel加速ip
-docs.jaqi.xyz
 
 进入928421782Q群申请白名单
 
