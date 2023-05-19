@@ -4,11 +4,11 @@
 
 ### Muskf
 
-[Minecraft](https://www.minecraft.net/) 玩家(ID: USTC)
+[Minecraft](https://www.minecraft.net/) 
 
 时区: UTC+8
 
-邮箱:gts0xx@163.com
+e-mail:admin@lunarcn.top
 
 
 ### 常玩的服务器
