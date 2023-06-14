@@ -1,6 +1,6 @@
 ### Hi there 👋
 <!--suppress HtmlDeprecatedAttribute -->
-<img align="right" src="https://mc-heads.net/head/USTC" alt="USTC">
+<img align="right" src="https://mc-heads.net/head/USTCC" alt="USTCC">
 
 ### Muskf
 
