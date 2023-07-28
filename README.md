@@ -10,7 +10,7 @@ e-mail:admin@lunarcn.top
 ### Stats
 
 <details>
-  <summary>点击查看</summary>
+  <summary>Click to Check</summary>
 
 ![4o4E's GitHub stats](https://github-readme-stats.vercel.app/api?username=muskf&show_icons=true&count_private=true&theme=tokyonight)
 
