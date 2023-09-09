@@ -6,7 +6,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= LunarClient CN; LunarClient.top&size=24" alt="Typing SVG" />
   </div>
     <!-- knock code pictures 敲代码的图片 -->
-<img align="right" src="https://mc-heads.net/head/USTC" alt="USTC">
+<img align="center" src="https://mc-heads.net/head/USTC" alt="USTC">
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
