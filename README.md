@@ -3,14 +3,13 @@
   
   <!-- dynamic typing effect 动态打字效果 -->
   <div align="center">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= LunarClient CN; LunarClient.top&center=true&size=24" alt="Typing SVG" />
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines= Badlion; Badlion.top.top&center=true&size=24" alt="Typing SVG" />
   </div>
     <!-- knock code pictures 敲代码的图片 -->
 <img align="center" src="https://mc-heads.net/head/USTC" alt="USTC">
 
   <!-- profile logo 个人资料徽标 -->
   <div align="center">
-    <a href="https://www.lunarcn.top"><img src="https://img.shields.io/badge/LunarCN-Website-c32136" /></a>&emsp;
     <!-- visitor statistics logo 访问量统计徽标 -->
     <img src="https://komarev.com/ghpvc/?username=muskf&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
   </div>
