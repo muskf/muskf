@@ -27,7 +27,6 @@ e-mail:admin@lunarcn.top
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muskf&layout=compact&theme=radical)
 
-[![LunarCN](https://github-readme-stats.vercel.app/api/pin/?username=CubeWhyMC&repo=LunarClient-CN&theme=radical)](https://github.com/CubeWhyMC/LunarClient-CN)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=muskf&theme=radical)
 
